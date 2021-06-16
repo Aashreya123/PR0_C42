@@ -18,7 +18,7 @@ function setup() {
   spacecraft.addImage(scimg);
   spacecraft.scale = 0.15;
   
-  iss = createSprite(330,130);
+  iss = createSprite(250,200);
   iss.addImage(issimg);
   iss.scale = 0.25;
 }
